@@ -1,2 +1,2 @@
 # shiny-funicular
-Javascript Practice
+This is Javascript Practice :)
